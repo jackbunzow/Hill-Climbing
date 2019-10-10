@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Jack Bunzow
-# CSCI 4350/5350
-# Project 2
-# 10/10/19
 # This program usses Simulated Annealing to find the closest maximum to
 # the starting location of the sum of gaussian function given generated based
 # on the random seed number, number of dimensions, and number of centers (hills)
